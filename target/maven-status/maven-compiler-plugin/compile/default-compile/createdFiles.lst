@@ -1,0 +1,5 @@
+com/pwgolf/golfStats/web/PlayedHoleController.class
+com/pwgolf/golfStats/model/PlayedHole.class
+com/pwgolf/golfStats/Initializer.class
+com/pwgolf/golfStats/GolfStatsApplication.class
+com/pwgolf/golfStats/model/PlayedHoleRepository.class
